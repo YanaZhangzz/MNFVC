@@ -1,5 +1,4 @@
- 
-ifelse<-function(x, val1, val0)
+ ifelse<-function(x, val1, val0)
 {
   if (x)
   {
