@@ -1,7 +1,6 @@
 
 #### This file includes functions which calculate the newton-raphson algorithm of LSE
 
-
 ### calculate the trace of a matrix
 tr<-function(M)
 {
