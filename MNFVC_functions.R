@@ -1,3 +1,4 @@
+
 ####three network structure
 getDyadW<-function(N, N1, delta, normalize = T)                                           
 {
