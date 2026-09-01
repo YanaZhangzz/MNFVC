@@ -1,3 +1,4 @@
+
 MSAR.Lse.Sig1<-function(vecY, W, ww, N, p, q, D, Sige, Omee, 
                         S, tS, S1, m, OmeeS, tSe, SYX, IX, IXbeta)
 {
