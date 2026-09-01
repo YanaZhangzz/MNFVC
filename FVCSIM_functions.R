@@ -1,3 +1,4 @@
+
 ####FVCSIM
 rule.thumb_FVCSIM = function(x){
   0.79*min(quantile(x,0.75,na.rm=T)-quantile(x,0.25,na.rm=T),sd(x,na.rm=T))*length(x)^(-1/5)
