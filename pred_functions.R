@@ -1,4 +1,3 @@
-
 getCovCST = function(s)
 {
   phi11.seq = matrix(sin(2*s*pi) * sqrt(2), ncol = 1)
