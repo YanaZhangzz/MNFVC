@@ -1,3 +1,4 @@
+
 setwd("C:/Users/yn/Desktop/MNFVC/Sigma(JOE)-final code")
 library(Matrix)
 library(poweRlaw)
