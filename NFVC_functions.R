@@ -1,3 +1,4 @@
+
 #####NFVC
 est_rho_beta <- function(t_est, Y, X, Tpoints, W, Ytrue = NULL, verbose = F)
 {
